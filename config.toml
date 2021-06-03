@@ -2,3 +2,6 @@ baseURL = "http://mroswell.github.io/sugarwars-hugo"
 languageCode = "en-us"
 title = "Sugar Wars"
 theme = "sugarwars-theme"
+[params]
+  custom_css = ["css/custom.css"]
+  custom_js = ["js/custom.js"]
