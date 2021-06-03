@@ -1,0 +1,4 @@
+baseURL = "http://mroswell.github.io/sugarwars-hugo"
+languageCode = "en-us"
+title = "Sugar Wars"
+theme = "sugarwars-theme"
